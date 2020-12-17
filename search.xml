@@ -3,15 +3,26 @@
   <entry>
     <title>hexo主题有什么推荐的吗?</title>
     <url>/2020/12/17/hexo%E4%B8%BB%E9%A2%98%E6%9C%89%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%90%E7%9A%84%E5%90%97/</url>
-    <content><![CDATA[<p>主题选择是个很主观的东西，找一个你觉得顺眼的主题即可。你一定要记住一点，博客最重要的是你的内容，主题不要花太多时间去折腾，因为没有内容，主题再花哨也没有意义。<br>以下是我推荐的几个顺眼的hexo主题，demo为主题示例</p>
+    <content><![CDATA[<p>主题选择是个很主观的事情，找一个你觉得顺眼的主题即可。<br>以下是我推荐的几个顺眼的 hexo 主题，demo 为主题示例。</p>
 <a id="more"></a>
 
-<h2 id="matery"><a href="#matery" class="headerlink" title="matery"></a><strong>matery</strong></h2><p><a href="http://blinkfox.com/">demo</a><br><a href="https://github.com/blinkfox/hexo-theme-matery">github地址</a><br>卡片式风格的主题，排列和动画都很好看。</p>
-<h2 id="butterfly"><a href="#butterfly" class="headerlink" title="butterfly"></a><strong>butterfly</strong></h2><p><a href="https://butterfly.js.org/">demo</a><br><a href="https://github.com/jerryc127/hexo-theme-butterfly">github地址</a><br>如果你的博客有大量图片的话，推荐这款</p>
-<h2 id="fluid"><a href="#fluid" class="headerlink" title="fluid"></a><strong>fluid</strong></h2><p><a href="https://hexo.fluid-dev.com/">demo</a><br><a href="https://github.com/fluid-dev/hexo-theme-fluid">github地址</a><br>material design的主题，看一眼就知道是不是你的菜</p>
-<h2 id="icarus"><a href="#icarus" class="headerlink" title="icarus"></a><strong>icarus</strong></h2><p><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/">demo</a><br><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/uncategorized/cyberpunk-theme-variant/">赛博朋克2077demo</a><br><a href="https://github.com/ppoffice/hexo-theme-icarus">github地址</a><br>一款清爽的三列式主题，最近还上线了它的赛博朋克2077的版本皮肤，非常炫酷</p>
-<h2 id="next"><a href="#next" class="headerlink" title="next"></a><strong>next</strong></h2><p><a href="https://leaferx.online/">demo</a><br><a href="https://github.com/theme-next/hexo-theme-next">github地址</a><br>非常精简的一款主题，黑白配又包含大量留白，简约爱好者必选</p>
-<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>最后，我还是建议，再看过几款demo之后，锁定你看得最顺眼的那一款，不要再纠结别的主题好不好看了。用心打磨你的内容，分享你的思考和收获，比任何好看的主题都重要。</p>
+<h2 id="matery"><a href="#matery" class="headerlink" title="matery"></a><strong>matery</strong></h2><p><a href="http://blinkfox.com/">demo</a></p>
+<p><a href="https://github.com/blinkfox/hexo-theme-matery">github 地址</a></p>
+<p>卡片式风格的主题，排列和动画都很好看。</p>
+<h2 id="butterfly"><a href="#butterfly" class="headerlink" title="butterfly"></a><strong>butterfly</strong></h2><p><a href="https://butterfly.js.org/">demo</a></p>
+<p><a href="https://github.com/jerryc127/hexo-theme-butterfly">github 地址</a></p>
+<p>如果你的博客有大量图片的话，推荐这款</p>
+<h2 id="fluid"><a href="#fluid" class="headerlink" title="fluid"></a><strong>fluid</strong></h2><p><a href="https://hexo.fluid-dev.com/">demo</a></p>
+<p><a href="https://github.com/fluid-dev/hexo-theme-fluid">github 地址</a></p>
+<p>material design 的主题，看一眼就知道是不是你的菜</p>
+<h2 id="icarus"><a href="#icarus" class="headerlink" title="icarus"></a><strong>icarus</strong></h2><p><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/">demo</a></p>
+<p><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/uncategorized/cyberpunk-theme-variant/">赛博朋克 2077demo</a></p>
+<p><a href="https://github.com/ppoffice/hexo-theme-icarus">github 地址</a></p>
+<p>一款清爽的三列式主题，最近还上线了它的赛博朋克 2077 的版本皮肤，非常炫酷</p>
+<h2 id="next"><a href="#next" class="headerlink" title="next"></a><strong>next</strong></h2><p><a href="https://leaferx.online/">demo</a></p>
+<p><a href="https://github.com/theme-next/hexo-theme-next">github 地址</a></p>
+<p>非常精简的一款主题，黑白配又包含大量留白，简约爱好者必选。</p>
+<h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><p>最后的最后，我还是建议，在看过几款 demo 之后，锁定你看得最顺眼的那一款，不要再纠结别的主题好不好看了。博客最重要的是你的内容，主题不要花太多时间去折腾，因为没有内容，主题再花哨也没有意义。用心打磨你的内容，分享你的思考和收获，比任何好看的主题都重要。</p>
 ]]></content>
   </entry>
 </search>
