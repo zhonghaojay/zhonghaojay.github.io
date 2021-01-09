@@ -4,7 +4,7 @@ description: Learn as if you were to live forever
 author: Vicent Hao
 language: zh-CN
 timezone: ''
-url: 'http://example.com'
+url: 'https://zhonghaojay.github.io/'
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
